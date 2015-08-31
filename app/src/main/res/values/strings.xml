@@ -1,6 +1,18 @@
 <resources>
     <string name="app_name">GeoTranslationProj</string>
-
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="east">东</string>
+    <string name="south">南</string>
+    <string name="west">西</string>
+    <string name="north">北</string>
+    <string name="longitude">经</string>
+    <string name="latitude">纬</string>
+    <string name="degree">度</string>
+    <string name="minute">分</string>
+    <string name="second">秒</string>
+
+    <string name="longitude_text">经纬:</string>
+    <string name="latitude_text">纬度:</string>
+
 </resources>
